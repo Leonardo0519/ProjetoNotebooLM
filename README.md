@@ -96,6 +96,116 @@ O engenheiro de software é peça-chave em diversos setores, desde a saúde e fi
 . Atualmente, a área enfrenta desafios como o legado (manter sistemas antigos ativos), a heterogeneidade (integrar diferentes dispositivos e redes) e a pressão por prazos de entrega reduzidos sem comprometer a qualidade
 .
 
-Essa foi a primeira itereação realizada, onde obitve um resultado correspondente com a minha solicitação
+### Comentario: Essa foi a primeira itereação realizada, onde obitve um resultado correspondente com a minha solicitação
+
+
+### Segunda iteração 
+Adicione as referecias no final de cada resposta feita. Explique novamento, mas agora defina um cronograma de desenvolvimento
+
+### Respota obtida: 
+A Engenharia de Software é uma disciplina que aplica princípios, métodos e ferramentas de forma sistemática para o desenvolvimento, operação e manutenção de sistemas de software de alta qualidade, dentro do prazo e orçamento previstos
+. Para estruturar um projeto de forma profissional, é necessário integrar processos, metodologias e um cronograma de desenvolvimento rigoroso
+.
+O que considerar no desenvolvimento de softwares
+O desenvolvimento deve ser encarado como uma tecnologia em camadas, sustentada pelo compromisso organizacional com a qualidade
+. As camadas incluem:
+Processos: O arcabouço que une as atividades e permite a gestão do projeto
+.
+Métodos: As instruções técnicas de "como fazer", abrangendo análise, design, codificação e testes
+.
+Ferramentas: Suporte automatizado (como o Jira ou Trello) para as etapas anteriores
+.
+Metodologias Principais
+A escolha da metodologia define o ritmo do projeto:
+Modelo Cascata (Waterfall): Abordagem linear e sequencial; uma fase só começa quando a anterior termina
+. É ideal para requisitos estáveis e bem definidos
+.
+Metodologias Ágeis (Scrum, Kanban, XP): Focam na flexibilidade e entregas incrementais
+. O Scrum organiza o trabalho em ciclos chamados sprints (geralmente de 2 a 4 semanas), enquanto o Kanban utiliza quadros visuais para gerir o fluxo de trabalho e evitar gargalos
+.
+Cronograma de Desenvolvimento de Software
+Um cronograma eficaz não é apenas uma lista de datas, mas um roteiro detalhado que distribui o esforço estimado pelas tarefas de engenharia, identificando interdependências e marcos de controle
+.
+1. Estruturação e Planeamento (WBS/EAP)
+O primeiro passo é a compartimentalização: dividir o projeto em tarefas geríveis através de uma Estrutura Analítica do Projeto (EAP)
+.
+Identificação de Marcos (Milestones): Defina pontos de verificação onde a qualidade de um entregável (como um documento de requisitos ou protótipo) será avaliada antes de prosseguir
+.
+2. Definição de Interdependências e Fluxo
+Deve-se determinar quais as tarefas que podem ocorrer em paralelo e quais são sequenciais
+.
+Caminho Crítico: Identifique a sequência de tarefas que, se atrasarem, comprometerão a data de entrega final do projeto
+.
+3. Alocação de Tempo e Recursos
+Atribua o esforço (pessoas-dia) e a duração estimada para cada tarefa
+.
+Validação do Esforço: Certifique-se de que não alocou mais trabalho do que a equipa consegue suportar em determinado período
+.
+Lei de Brooks: Evite adicionar mais programadores a um projeto já atrasado, pois isso pode aumentar a carga de comunicação e atrasá-lo ainda mais
+.
+4. Visualização e Acompanhamento
+Utilize ferramentas gráficas para monitorizar o progresso:
+Gráfico de Gantt: Permite visualizar as tarefas ao longo do tempo, as suas durações e as suas sobreposições
+.
+Quadro Kanban: Excelente para acompanhar o status diário das tarefas em metodologias ágeis
+.
+Time-Boxing: Em projetos com prazos severos, limite o tempo de cada tarefa; quando o tempo expira, o trabalho naquela tarefa pára para que a seguinte comece
+.
+5. Exemplo de Ciclo Num Cronograma Ágil (Scrum)
+Sprint Planning (Dia 1): Definição do que será feito nas próximas 2-4 semanas
+.
+Daily Meeting (Diário): Reuniões de 15 minutos para sincronizar tarefas e identificar impedimentos
+.
+Sprint Review/Retro (Fim do Ciclo): Demonstração do incremento ao cliente e análise de melhoria do processo
+.
+Referências:
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+.
+### Comentario: Na segunda solicitação, fui atendido parcilmente, uma vez que o modelo retornou uma explicação sobre o fluxo de trabalho que eu havia solicitado, porém em relação as referecias, não obtive um resultado satisfatorio. 
+
+
 
 
