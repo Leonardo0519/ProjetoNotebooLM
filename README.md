@@ -207,5 +207,57 @@ Referências:
 ### Comentario: Na segunda solicitação, fui atendido parcilmente, uma vez que o modelo retornou uma explicação sobre o fluxo de trabalho que eu havia solicitado, porém em relação as referecias, não obtive um resultado satisfatorio. 
 
 
+### Terceira Iteração
+Deixa as referencias no final de cada conversa dessa forma:
+
+
+Referencia (Nome da Referencia)
+
+
+Explique novamente sobre o assunto, mas fale sobre as melhores linguagem de programação para começar o meu projeto
+
+### Respota Obtida
+A Engenharia de Software é uma área interdisciplinar que aplica princípios, métodos e ferramentas de forma sistemática e disciplinada para o desenvolvimento, operação e manutenção de sistemas de software de alta qualidade
+. Ela não se limita apenas à codificação, mas abrange todo o ciclo de vida do software, garantindo que o produto final atenda aos requisitos funcionais e de desempenho, dentro do prazo e orçamento previstos
+.
+Essa disciplina é frequentemente descrita como uma tecnologia em camadas, todas fundamentadas num compromisso organizacional com a qualidade
+. As camadas incluem os processos, que definem a estrutura para a entrega da tecnologia; os métodos, que fornecem as instruções técnicas de "como fazer" (análise, design, construção); e as ferramentas, que oferecem suporte automatizado ou semiautomatizado para estas atividades
+.
+Melhores Linguagens de Programação para o Seu Projeto
+A escolha da linguagem de programação ideal depende diretamente do contexto e dos objetivos do seu projeto, pois não existe uma "bala de prata" que sirva para todas as situações
+. Abaixo, destaco as linguagens mais recomendadas para iniciar, com base nas tendências de mercado e aplicabilidade:
+Python: É amplamente valorizada pela sua praticidade e versatilidade
+. É a escolha principal para projetos que envolvem Inteligência Artificial (IA), Machine Learning, análise de dados e desenvolvimento de back-end
+. A sua sintaxe limpa facilita a aprendizagem para quem está a começar
+.
+Java: Uma linguagem robusta e madura, essencial para o desenvolvimento de sistemas corporativos complexos e aplicações Android
+. É um excelente ponto de partida para aprender os princípios da Programação Orientada a Objetos (POO) e padrões de projeto, que são fundamentais na engenharia de software
+.
+JavaScript: Se o foco do seu projeto for o ambiente Web, o JavaScript é indispensável
+. É a base para a criação de interfaces interativas (front-end) e, através de plataformas como Node.js, também pode ser usado no back-end
+. É a tecnologia central para as chamadas Single Page Applications (SPAs)
+.
+C# (.NET): Muito utilizada em ambientes corporativos que operam no ecossistema Microsoft
+. É uma linguagem poderosa para o desenvolvimento de back-end, serviços em nuvem e aplicações robustas que exigem alta integração
+.
+C/C++: Recomendadas para projetos onde o desempenho e o controle de hardware são críticos, como sistemas operativos, motores de jogos e sistemas embarcados em dispositivos médicos ou automóveis
+.
+Para decidir, deve avaliar se o sistema pode ser implementado com as tecnologias dominadas pela sua equipa ou se o custo de aprendizagem de uma nova linguagem compensa os benefícios técnicos que ela trará ao projeto
+.
+Referencia (A ética profissional no processo de desenvolvimento de software)
+Referencia (Aprenda Análise e Projeto de Software do Zero | Fundamentos Essenciais da Engenharia de Software)
+Referencia (Engenharia de Software do ZERO: Curso Completo em Vídeo [+7h de Conteúdo])
+Referencia (Engenharia de Software: Entendendo o Processo de Desenvolvimento de Software)
+Referencia (Engenharia de Software: Fundamentos e Aplicações | Software Engineer's Academy)
+Referencia (Engenharia de Software: um guia sobre a área, carreira, mercado e formação | Alura)
+Referencia (Engenharia de software – Wikipédia, a enciclopédia livre)
+Referencia (Informática - Fundamentos de Engenharia de Software - Universidade Estadual do Ceará)
+Referencia (SOLID: o que é e quais os 5 princípios da Programação Orientada a Objetos (POO) - Alura)
+Referencia (https://www.aiec.br/plataforma/126126/impressao/ENGENHARIA%20DE%20SOFTWARE%201%20unidade01.pdf)
+Referencia (https://www.kufunda.net/publicdocs/Engenharia%20de%20Software%20-%207.ed.%20(Roger%20S.%20Pressman).pdf)
+
+
+### Comentario: Na terceira iteração utilizei a experiencia adquirida na segunda iteração para refinar os meus prompts. Dessa forma obtive um resultado mais satisfatório com a nova iteração.
+
 
 
