@@ -245,15 +245,25 @@ C/C++: Recomendadas para projetos onde o desempenho e o controle de hardware sã
 Para decidir, deve avaliar se o sistema pode ser implementado com as tecnologias dominadas pela sua equipa ou se o custo de aprendizagem de uma nova linguagem compensa os benefícios técnicos que ela trará ao projeto
 .
 Referencia (A ética profissional no processo de desenvolvimento de software)
+
 Referencia (Aprenda Análise e Projeto de Software do Zero | Fundamentos Essenciais da Engenharia de Software)
+
 Referencia (Engenharia de Software do ZERO: Curso Completo em Vídeo [+7h de Conteúdo])
+
 Referencia (Engenharia de Software: Entendendo o Processo de Desenvolvimento de Software)
+
 Referencia (Engenharia de Software: Fundamentos e Aplicações | Software Engineer's Academy)
+
 Referencia (Engenharia de Software: um guia sobre a área, carreira, mercado e formação | Alura)
+
 Referencia (Engenharia de software – Wikipédia, a enciclopédia livre)
+
 Referencia (Informática - Fundamentos de Engenharia de Software - Universidade Estadual do Ceará)
+
 Referencia (SOLID: o que é e quais os 5 princípios da Programação Orientada a Objetos (POO) - Alura)
+
 Referencia (https://www.aiec.br/plataforma/126126/impressao/ENGENHARIA%20DE%20SOFTWARE%201%20unidade01.pdf)
+
 Referencia (https://www.kufunda.net/publicdocs/Engenharia%20de%20Software%20-%207.ed.%20(Roger%20S.%20Pressman).pdf)
 
 
